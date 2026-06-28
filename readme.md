@@ -124,7 +124,7 @@ or download the ZIP package from GitHub.
 Run:
 
 ```
-Update Programs.bat
+Actualizar programas.bat
 ```
 
 The application will:
